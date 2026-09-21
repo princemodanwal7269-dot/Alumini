@@ -1,0 +1,6 @@
+{
+  "name": "AlumniConnect – Alumni Engagement & Networking System",
+  "description": "A comprehensive, university-grade alumni engagement, networking, mentorship, career opportunities, and event management platform with full Java Spring Boot architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
